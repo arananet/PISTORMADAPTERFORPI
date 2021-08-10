@@ -24,6 +24,7 @@ In order to build your adapter, check the bill of material:
 Theorically this adapter allows to use any raspberry pi, including 3A, 3B, etc.
 
 # Update
+10-08-2021 - Changed power lines to 40mil.
 10-08-2021 - Initial release.
 
 # Note
