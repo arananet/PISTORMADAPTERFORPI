@@ -19,11 +19,17 @@ In order to build your adapter, check the bill of material:
 
 2x20 2.54 Male pinrow (to connect the adapter to the pistorm).
 
+# Instructions
+
+Solder the female connector looking on top of the board (is marked on the pcb).
+
+Solder the male pinrow at bottom of the board (short pins must look at bottom).
+
 # Raspberry pi compatibility
 
 Theorically this adapter allows to use any raspberry pi, including 3A, 3B, etc.
 
-# Update
+# Updates
 10-08-2021 - Changed power lines to 40mil.
 
 10-08-2021 - Initial release.
