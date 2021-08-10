@@ -1,5 +1,5 @@
 # PISTORMADAPTERFORPI
-This little adapter allows to move the raspberry instead of moving the entire 68000 socket.. why not? :)
+This little adapter allows to move the raspberry instead of moving the entire 68000 socket..what's knows as "relocator" why not? :)
 
 # Images
 
@@ -16,6 +16,7 @@ PCB Thickness: 1.6mm.
 In order to build your adapter, check the bill of material:
 
 2x20 2.54 Female connector, IDC Like (to connect te PI to the adapter).
+
 2x20 2.54 Male pinrow (to connect the adapter to the pistorm).
 
 # Raspberry pi compatibility
