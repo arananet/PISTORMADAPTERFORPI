@@ -3,7 +3,7 @@ This little adapter allows to move the raspberry instead of moving the entire 68
 
 # Images
 
-<img src="https://github.com/arananet/PISTORMADAPTERFORPI/blob/main/images/2nuevo.png?raw=true" width="500">
+<img src="https://github.com/arananet/PISTORMADAPTERFORPI/blob/main/images/3.png?raw=true" width="500">
 
 # PCB information
 
