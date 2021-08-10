@@ -29,6 +29,10 @@ Solder the male pinrow at bottom of the board (short pins must look at bottom).
 
 Theorically this adapter allows to use any raspberry pi, including 3A, 3B, etc.
 
+# A500 case
+
+Yes, this adapter will allow to close the case. It has not be designed taking in count external adapter like the denise hdmi adapter, etc.
+
 # Updates
 10-08-2021 - Changed power lines to 40mil.
 
